@@ -53,10 +53,11 @@ This project analyzes sales data to find top customers, monthly revenue trends, 
 
 6. Key Metrics:
 
-- Total Sales = $2.26M
+   - Total Sales = $2.26M
+   
+   - Orders = 4.9K
+   
+   - Cities Covered = 529
+   
+   - Average Order Value ≈ $230.77
 
-- Orders = 4.9K
-
-- Cities Covered = 529
-
-- Average Order Value ≈ $230.77
